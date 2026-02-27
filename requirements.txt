@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+networkx==3.2.1
+docplex==2.27.239
+googlemaps==4.10.0
